@@ -1,0 +1,138 @@
+body {
+    background-color: #fafafa;
+}
+
+.contenido {
+    width: 100%;
+    margin: 1rem;
+    padding: 0 1rem;
+}
+
+h2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+article {
+    background: #fff;
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 20px;
+    box-shadow: 0 0 3px grey;
+    /* border-top: 4px solid #536dfe; */
+}
+
+/* -- REGISTRO CSS -- */
+
+.formulario {
+    background-color: #fff;
+    width: 600px;
+    height: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    padding: 20px;
+    box-shadow: 0 0 3px grey;
+    border-radius: 20px;
+}
+
+.contenedor-submit {
+    text-align: center;
+}
+
+.btn-submit {
+    width: 150px;
+}
+
+.formulario .titulo {
+    font-family: 'Potta One', cursive;
+}
+
+.form-check {
+    margin-left: 3px;
+}
+
+.fecha-nacimiento {
+    margin-top: 40px;
+}
+
+.fecha-nacimiento .titulo {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.fecha-nacimiento p {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.contenedor .texto-sesion {
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.contenedor .texto-sesion a {
+    text-decoration: none;
+    color: #85c8f6;
+    font-weight: 700;
+}
+
+.contenedor .texto-sesion a:hover {
+    text-decoration: underline;
+}
+
+/* Elimina los bordes de bootstrap */
+/* .form-control:focus {
+    box-shadow: 0 0 0 0;
+    border-color: #d0d6dc;
+} */
+
+/* -- LOGIN -- */
+
+.login {
+    background-color: #fff;
+    width: 600px;
+    height: 410px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    padding: 20px;
+    box-shadow: 0 0 3px grey;
+    border-radius: 20px;
+}
+
+.login .titulo {
+    font-family: 'Potta One', normal;
+}
+
+.contenedor-btnLogin {
+    text-align: center;
+}
+
+.contenedor-btnLogin .btn-login {
+    width: 95%;
+}
+
+.contenedor .registrate {
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.contenedor .registrate a {
+    text-decoration: none;
+    color: #85c8f6;
+    font-weight: 700;
+}
+
+.contenedor .registrate a:hover {
+    text-decoration: underline;
+}
+
+.contenedor .registrate {
+    margin-left: 5px;
+    margin-top: 20px;
+}
